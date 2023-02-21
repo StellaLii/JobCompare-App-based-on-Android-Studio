@@ -1,7 +1,5 @@
 # Project Plan
 
-**Author**: \<Team 181\>
-
 ## 1 Introduction
 
 JobCompare app is designed for job hunters to choose the best job offer for them. This application is for a phone or tablet device based on Android system.
